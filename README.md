@@ -1,4 +1,4 @@
-![MasterHead](https://www.capahill.com/wp-content/uploads/2019/04/angular-banner-01.jpg)
+
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -8,9 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/iskanddar_" target="blank"><img src="https://img.shields.io/twitter/follow/iskanddar_?logo=twitter&style=for-the-badge" alt="iskanddar_" /></a> </p>
 
-- 🔭 I’m currently training @ **Route Academy**
+## 👨🏻‍💻 About Me 
+- 🔭 I’m currently a Freelancer Front-End Developer.
 
-- 🌱 I’m currently learning **Angular.js**
+- 🌱 I’m currently learning **Angular 2+**
+  
+- 🤔   Exploring new technologies for development.
 
 - 💬 Ask me about **Front-End Development**
 
@@ -18,16 +21,22 @@
 
 - ⚡ Fun fact **I love to code.**
 
+### :mortar_board: Graduated:
+Faculty of Arts Department Of Arabic & Literature.
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://codepen.io/iskndrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iskndrr" height="30" width="40" /></a>
 <a href="https://twitter.com/iskanddar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iskanddar_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iskndr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iskndr" height="30" width="40" /></a>
 <a href="https://fb.com/iskandarr69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iskandarr69" height="30" width="40" /></a>
 <a href="https://instagram.com/mohhamed.d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohhamed.d" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iskandarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iskandarr" height="30" width="40" /></a>
+    <a href="mailto: mohhamed.a.saeed@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-3.svg" alt="mohhamed.a.saeed@gmail.com" height="30" width="40"></a>
+
 </p>
 
+## 🛠 Tech Stack
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
@@ -43,4 +52,10 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+  ## 📖 I also learned about</h4>
+- Data Structure & Algorithms
+- OOP & Design Pattern
+- Linux Fundamentals
+  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iskndrr&show_icons=true&locale=en" alt="iskndrr" /></p>
